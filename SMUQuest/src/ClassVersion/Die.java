@@ -1,8 +1,8 @@
 package ClassVersion;
 import java.util.Random;
+//creates a die that returns a random value in the range of 1 to 6 inclusive. Uses UML Diagram on PDF.
 public class Die {
     private int value;
-
     public Die() {
         roll();
     }
